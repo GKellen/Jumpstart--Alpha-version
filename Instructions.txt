@@ -1,0 +1,18 @@
+Welcome to Jumpstart Alpha version!
+	Created by Gary Kellenberger
+
+How to play:
+
+This game has three simple keystrokes to move your player. 
+
+1) Move right: To move right, depress the right arrow key on the key board.
+
+2) Move Left: To move left, depress the left arrow key on the key board.
+
+3) Jump: To jump, depress the Up arrow key on the key board.
+
+WARNING!! There are times where the jump function will not activate if the right or left arrow keys are pressed down!
+	If you run into this problem and have a fix for it please leave a comment with how to fix it!
+
+WARNING!! There are two platforms in the game that are not what they seem, and you may fall through! 
+		Be careful, pay attention, and have fun!
